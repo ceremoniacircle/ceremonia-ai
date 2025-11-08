@@ -1,3 +1,9 @@
 [submodule "chatrag"]
 	path = chatrag
 	url = https://github.com/areia-ai/chatrag.git
+[submodule "myxelium-funnel-generator"]
+	path = myxelium-funnel-generator
+	url = https://github.com/ceremoniacircle/myxelium-funnel-generator.git
+[submodule "myxelium-media-generator"]
+	path = myxelium-media-generator
+	url = https://github.com/ceremoniacircle/myxelium-media-generator.git
