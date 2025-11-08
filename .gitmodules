@@ -1,0 +1,3 @@
+[submodule "chatrag"]
+	path = chatrag
+	url = https://github.com/areia-ai/chatrag.git
